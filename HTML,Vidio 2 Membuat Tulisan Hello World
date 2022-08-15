@@ -1,0 +1,37 @@
+Praktek Membuat Tulisan Hello World!.
+-Buat file terlebih dahulu agar file tidak tercecer kemana-mana.
+-Buka Notepad sebagau kode editor pada komputer.
+-Jika sudah dibuka save terlebih dahulu file notepad dan berikan nama file misalkan halaman1.html, kemudian tipe file kita ganti ke all files.
+-Kita coba terlebih dahulu ketikan Hello World! dan save.
+-Selanjutnya kita coba buka di broswer.Broswer akan Mengangap tulisan ini sebagai halaman HTML karena masih dalam tulisan playing text.
+Supaya Agar Terbaca Sebagai Halaman HTML Kita Harus Membuat Struktur Dasar HTML
+
+CONTOH STRUKTUR DASAR HTML
+<!DOCYTPE HTML>
+<html>
+<head>
+  <title></title>
+</head>
+  
+<body>
+  
+</body>
+</html>
+Penjelasan:
+
+-DOCTYPE atau DTD
+ DOCTYPE yang merupakan singkatan dari Document Type Declaration dan juga dikenal sebagai DTD adalah deklarasi dokumen yang digunakan untuk
+ menginfokan tipe dokumen dan versi HTML yang digunakan kepada aplikasi web browser. Penulisan DOCTYPE harus berada pada awal dokumen.
+-Tag <html>
+ Tag html digunakan untuk menginformasikan pada aplikasi web browser bahwa tipe dokomen tersebut adalah HTML. Tag html juga menjadi 
+ wadah untuk semua elemen HTML.Jadi, semua elemen harus berada di dalam tag tersebut.
+-Tag <head>
+ Tag head merupakan tag yang berisi informasi tentang halaman yang tidak ditampilkan di halaman web browser. Misalnya: source css,
+ js atau lainnya yang berasal dari luar, informasi meta, title, dan lainnya. 
+-Tag <title> 
+ tag <title> akan ditampilkan di title bar pada web browser. Tag <title> adalah tag yang berada di dalam head HTML yang berfungsi
+ untuk menampilkan judul halaman web pada title bar web browser.
+-Tag <body>
+ Tag body merupakan tag yang berisi elemen-elemen yang ditampilkan di halaman web. Misalnya teks yang berupa paragraph <p>,
+ heading <h1> hingga <h6>, menampilkan gambar <img />, membuat tabel <table>, dan lainnya. 
+- 
